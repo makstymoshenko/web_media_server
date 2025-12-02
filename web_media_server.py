@@ -889,7 +889,7 @@ def print_connect_block() -> None:
     print(f"\n{serving_mode_message()}")
     print_connect_hint(detect_ipv4_ipconfig())
     print()
-    print("Press Ctrl+C To Stop")
+    print("Press Ctrl+C To Stop (Or Close This Window)")
 
 
 # ---------------------- IMAGE CONVERSION ----------------------
@@ -2511,4 +2511,5 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
 
