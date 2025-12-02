@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/makstymoshenko/web_media_server/blob/main/misc/web_media_server_icon.png" alt="Web Media Server" height="180" width="180">
+  <img src="https://github.com/makstymoshenko/web_media_server/blob/main/misc/web_media_server_icon.png" alt="Web Media Server" width="180" height="180">
 </p>
 
 # Web Media Server v.0.1.1 [License: MIT]
@@ -16,6 +16,10 @@
 - *Temporary Destination (2) -> Copy/Convert into _temp/ + meta/tags from audiofiles*<br>
 - *Temporary Destination (3) -> Copy/Convert into _temp/ + logs*<br>
 - *Temporary Destination (4) -> Copy/Convert into _temp/ + logs + meta/tags from audiofiles*
+
+<p align="center">
+  <img src="https://github.com/makstymoshenko/web_media_server/blob/main/misc/web_media_server_window.png" alt="Web Media Server"  width="282" height="152">
+</p>
 
 **(Originally it was implemented as media file access for iPad 1 Safari, but it may also work on other devices that support this)**
 
