@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/makstymoshenko/web_media_server/blob/main/assets/web_media_server_icon.png" alt="Web Media Server" height="180" width="180">
+  <img src="https://github.com/makstymoshenko/web_media_server/blob/main/misc/web_media_server_icon.png" alt="Web Media Server" height="180" width="180">
 </p>
 
 # Web Media Server v.0.1.1 [License: MIT]
