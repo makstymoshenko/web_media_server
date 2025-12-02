@@ -21,6 +21,11 @@
   <img src="https://github.com/makstymoshenko/web_media_server/blob/main/misc/web_media_server_window.png" alt="Web Media Server"  width="282" height="152">
 </p>
 
+
 **(Originally it was implemented as media file access for iPad 1 Safari, but it may also work on other devices that support this)**
+
+<p align="center">
+  <img src="https://github.com/makstymoshenko/web_media_server/blob/main/misc/web_media_server.jpg" alt="Web Media Server"  width="668" height="384">
+</p>
 
 ⚠️ ffmpeg: bundled ffmpeg-8.0-essentials_build preferred (fallback to system ffmpeg); used for thumbnails, full image JPEG, video MP4, and audio meta-tags extraction.
