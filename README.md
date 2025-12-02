@@ -4,7 +4,7 @@
 
 # Web Media Server v.0.1.1 [License: MIT]
 
-### Windows 11 (Python) Web Media Server - preview files and media with thumbnails and optional ffmpeg-based conversion.
+### Simple Windows 11 (Python) Web Media Server - preview files and media with thumbnails and optional ffmpeg-based conversion.
 
 ### 8 Startup modes:
 
