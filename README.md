@@ -22,7 +22,7 @@
 </p>
 
 
-**(Originally it was implemented as media file access for iPad 1 Safari, but it may also work on other devices that support this)**
+#### **(Originally it was implemented as media file access for iPad 1 Safari, but it may also work on other devices that support this)**
 
 <p align="center">
   <img src="https://github.com/makstymoshenko/web_media_server/blob/main/misc/web_media_server.jpg" alt="Web Media Server"  width="668" height="384">
