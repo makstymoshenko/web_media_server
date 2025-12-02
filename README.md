@@ -2,7 +2,7 @@
   <img src="https://github.com/makstymoshenko/web_media_server/blob/main/misc/web_media_server_icon.png" alt="Web Media Server" width="180" height="180">
 </p>
 
-# Web Media Server v.0.1.1 [License: MIT]
+# <p align="center">Web Media Server v.0.1.1 [License: MIT]</p>
 
 ### Simple Windows 11 (Python) Web Media Server - preview files and media with thumbnails and optional ffmpeg-based conversion.
 
@@ -21,8 +21,7 @@
   <img src="https://github.com/makstymoshenko/web_media_server/blob/main/misc/web_media_server_window.png" alt="Web Media Server"  width="282" height="152">
 </p>
 
-
-#### **(Originally it was implemented as media file access for iPad 1 Safari; it may also work on other devices)**
+**<p align="center">(Originally it was implemented as media file access for iPad 1 Safari; it may also work on other devices)</p>**
 
 <p align="center">
   <img src="https://github.com/makstymoshenko/web_media_server/blob/main/misc/web_media_server.jpg" alt="Web Media Server"  width="668" height="384">
