@@ -1,5 +1,5 @@
 # Web Media Server v.0.1.1
-# Copyright (C) 2025 EGT Maksym Tymoshenko (Ukraine)
+# Copyright (C) 2025 EGT Maks Tymoshenko (Ukraine)
 # License: MIT
 # Summary: Lightweight Web Media Server Serving Files And Media With Thumbnails, Image Rotation, And Optional ffmpeg-Based Conversion.
 # ffmpeg: Bundled ffmpeg-8.0-essentials_build Preferred (Fallback To System ffmpeg); Used For Thumbnails, Full Image JPEG, Video MP4, And Audio Cover Extraction.
@@ -2511,3 +2511,4 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
